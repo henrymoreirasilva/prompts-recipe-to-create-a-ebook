@@ -47,7 +47,7 @@ Leandro IA：
 Utilize os prompts acima nas ferramentas sugeridas em suas ferramentas preferidas. Utilize um editor para diagramar o e-book e salve-o em formato PDF.
 
 ## 📕 E-book
-<a href="./output/ebook-go" title="View PDF now">Clique aqui para ler</a>
+<a href="https://github.com/henrymoreirasilva/prompts-recipe-to-create-a-ebook/tree/main/output/ebook-go.pdf" title="View PDF now">Clique aqui para ler</a>
 
 ## 👨‍💻 Expert
 <b>Henry Moreira</b>: [Git](https://github.com/henrymoreira) -
